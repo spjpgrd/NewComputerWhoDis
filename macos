@@ -154,6 +154,7 @@ applications=(
   sketch-toolbox
   soundflower
   soundflowerbed
+  sublime-text
   tower
   vagrant
   virtualbox
