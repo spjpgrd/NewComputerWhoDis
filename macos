@@ -139,7 +139,6 @@ applications=(
   firefox
   flip4mac
   handbrake
-  hype
   imagealpha
   imageoptim
   iterm2
@@ -157,6 +156,8 @@ applications=(
   slack
   soundflowerbed
   tower
+  vagrant
+  virtualbox
   vlc
   visual-studio-code
 )
