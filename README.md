@@ -13,7 +13,7 @@ This script can be ran once or as many times as you'd like. It installs everythi
 ## Install
 
 ```sh
-curl --remote-name https://raw.githubusercontent.com/laurendorman/komputer-maschine/master/macos
+curl --remote-name https://raw.githubusercontent.com/spjpgrd/komputer-maschine/master/macos
 sh macos 2>&1 | tee ~/komputer-maschine.log
 ```
 
