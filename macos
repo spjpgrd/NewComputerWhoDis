@@ -125,20 +125,40 @@ else
 fi
 
 applications=(
-  alfred
+  audio-hijack
+  bartender
+  bettertouchtool
+  box-sync
+  brave
   caffeine
-  google-chrome
-  firefox
-  iterm2
-  vagrant
-  virtualbox
-  atom
-  the-unarchiver
-  sketch
+  cfxr
+  color-oracle
   dash
+  dropbox
+  dropzone
+  firefox
+  flip4mac
+  handbrake
+  hype
+  imagealpha
+  imageoptim
+  iterm2
+  keyboard-cleaner
+  Keyboard-maestro
+  lastfm
+  lastpass
+  licecap
+  google-chrome
+  noun-project
+  opera
+  principle
+  screenflow
+  sketch-toolbox
   slack
-  docker
-  spotify
+  soundflowerbed
+  tower
+  vlc
+  visual-studio-code
 )
 
 komputer_echo "Installing applications..."
