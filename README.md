@@ -12,8 +12,13 @@ This script can be ran once or as many times as you'd like. It installs everythi
 
 ## Install
 
+**Step One:** Download the script
 ```sh
 curl --remote-name https://raw.githubusercontent.com/spjpgrd/komputer-maschine/master/macos
+```
+
+**Step Two:** Run it
+```sh
 sh macos 2>&1 | tee ~/komputer-maschine.log
 ```
 
