@@ -56,7 +56,42 @@ If not, report where the script failed into a [new GitHub Issue](https://github.
 
 **Applications:**
 
-TODO
+1. audio-hijack
+2. bartender
+3. bettertouchtool
+4. box-sync
+5. brave
+6. caffeine
+7. cfxr
+8. color-oracle
+9. dash
+10. dropbox
+11. dropzone
+12. firefox
+13. flip4mac
+14. handbrake
+15. imagealpha
+16. imageoptim
+17. iterm2
+18. keyboard-cleaner
+19. Keyboard-maestro
+20. lastfm
+21. lastpass
+22. licecap
+23. google-chrome
+24. noun-project
+25. opera
+26. screenflow
+27. sketch
+28. sketch-toolbox
+29. soundflower
+30. soundflowerbed
+31. sublime-text
+32. tower
+33. vagrant
+34. virtualbox
+35. vlc
+36. visual-studio-code
 
 ## License
 
