@@ -82,16 +82,17 @@ If not, report where the script failed into a [new GitHub Issue](https://github.
 24. noun-project
 25. opera
 26. screenflow
-27. sketch
-28. sketch-toolbox
-29. soundflower
-30. soundflowerbed
-31. sublime-text
-32. tower
-33. vagrant
-34. virtualbox
-35. vlc
-36. visual-studio-code
+27. sequel-pro
+28. sketch
+29. sketch-toolbox
+30. soundflower
+31. soundflowerbed
+32. sublime-text
+33. tower
+34. vagrant
+35. virtualbox
+36. vlc
+37. visual-studio-code
 
 ## License
 
