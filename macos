@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# komputer maschine gets your macOS machine up and running quickly.
+# NewComputerWhoDis gets your macOS machine up and running quickly.
 # No more second guessing if you've installed the tools you need.
 
 komputer_echo() {
@@ -25,7 +25,7 @@ append_to_zshrc() {
 }
 
 # Let the user know if the script fails
-trap 'ret=$?; test $ret -ne 0 && printf "\nkomputer maschine failed. :(\n\n" >&2; exit $ret' EXIT
+trap 'ret=$?; test $ret -ne 0 && printf "\nNewComputerWhoDis failed. 😢\n\n" >&2; exit $ret' EXIT
 
 set -e
 
@@ -208,4 +208,4 @@ gem_install_or_update 'bundler'
 number_of_cores=$(sysctl -n hw.ncpu)
 bundle config --global jobs $((number_of_cores - 1))
 
-komputer_echo "Congratulations! Your komputer maschine is ready to go."
+komputer_echo "Congratulations! Your new computer is ready to go 🎉."
