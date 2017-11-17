@@ -1,33 +1,32 @@
-komputer maschine
+NewComputerWhoDis
 ======
 
-komputer maschine is a shell script that gets your machine ready for design and development.
+NewComputerWhoDis is a shell script that gets your machine ready for design and development.
 
 This script can be ran once or as many times as you'd like. It installs everything that macOS needs to get to work.
 
 ## Requirements
 
-* A komputer maschine
 * macOS (>10)
 
 ## Install
 
 **Step One:** Download the script
 ```sh
-curl --remote-name https://raw.githubusercontent.com/spjpgrd/komputer-maschine/master/macos
+curl --remote-name https://raw.githubusercontent.com/spjpgrd/NewComputerWhoDis/master/macos
 ```
 
 **Step Two:** Run it
 ```sh
-sh macos 2>&1 | tee ~/komputer-maschine.log
+sh macos 2>&1 | tee ~/NewComputerWhoDis.log
 ```
 
 ## Debugging
 
-The log of your script, successful or not, will be saved to `~/komputer-maschine.log`.
+The log of your script, successful or not, will be saved to `~/NewComputerWhoDis.log`.
 
 Read through it to see if you can debug the issue yourself.
-If not, report where the script failed into a [new GitHub Issue](https://github.com/laurendorman/komputer-maschine/issues/new).
+If not, report where the script failed into a [new GitHub Issue](https://github.com/spjpgrd/NewComputerWhoDis/issues/new).
 
 ## What You Get
 
@@ -98,10 +97,10 @@ If not, report where the script failed into a [new GitHub Issue](https://github.
 
 ## License
 
-komputer maschine is © 2016 by Lauren Dorman and is protected under the [MIT License].
+NewComputerWhoDis is © 2017 by Sean Doran and is protected under the [MIT License].
 
 [MIT License]: LICENSE
 
 ## Credits and inspiration
 
-Inspired by thoughtbot's [laptop](https://github.com/thoughtbot/laptop/) and Andrew Taylor's article on [Pantheon](https://pantheon.io/blog/dev-setup-using-homebrew-os-x).
+Forked from Lauren Dorman's [komputer-maschine](https://github.com/laurendorman/komputer-maschine) which was inspired by thoughtbot's [laptop](https://github.com/thoughtbot/laptop/) and Andrew Taylor's article on [Pantheon](https://pantheon.io/blog/dev-setup-using-homebrew-os-x).
