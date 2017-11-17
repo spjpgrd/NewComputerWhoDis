@@ -130,6 +130,7 @@ applications=(
   bettertouchtool
   box-sync
   brave
+  camunda-modeler
   caffeine
   cfxr
   color-oracle
@@ -162,6 +163,7 @@ applications=(
   virtualbox
   vlc
   visual-studio-code
+  zoomus
 )
 
 komputer_echo "Installing applications..."
